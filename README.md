@@ -1,4 +1,4 @@
-# Selenium Test Recording of AgShift 
+# Selenium Test Recording 
 
 
 ![GIF](selenium.gif)
